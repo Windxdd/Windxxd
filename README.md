@@ -15,4 +15,6 @@ Hi my name is, Emir. I'm 20 years old. I started software development 3 mounth a
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
 </div>
 
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Windxdd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <br>
